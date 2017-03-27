@@ -1,0 +1,2 @@
+# crashat
+Crash Analyser TUI
